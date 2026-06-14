@@ -185,6 +185,7 @@ python -m pytest tests/
 
 For any collaboration, contact:
 Mail id : mishrashashmit09@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/shashmit-mishra-9675ab273/
 
 B.Tech CSE (AI Specialization) — Pranveer Singh Institute Of Technology — AKTU University, 2028
